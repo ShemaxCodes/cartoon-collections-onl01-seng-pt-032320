@@ -23,4 +23,5 @@ def find_the_cheese(cheese_types)
   
   cheese_types.each_with_index do |cheese|
     types = cheese.split(" ")
+  end
 end
